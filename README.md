@@ -13,6 +13,8 @@ Here are some pictures taken from the latest version of this project :
 ![Screenshot 2024-06-20 104803](https://github.com/3RFUNn/Enhancing-Cognitive-Abilities-Using-VR/assets/68325981/8545fb2d-f2cd-4aa8-a0f4-6d5fe4cce554)
 ![Screenshot 2024-06-20 110459](https://github.com/3RFUNn/Enhancing-Cognitive-Abilities-Using-VR/assets/68325981/61fc2839-8ab9-435f-82b9-6458ef476ef8)
 
+*The project is currently optimized for meta quest headsets.
+
 
 
 
